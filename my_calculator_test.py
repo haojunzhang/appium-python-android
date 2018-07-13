@@ -56,7 +56,7 @@ class EZCalculatorTest(unittest.TestCase):
 		# set value2
 		self.setText('idv.haojun.appiumtest:id/etValue2', str(value2))
 
-		# click add button
+		# click sub button
 		self.performClick('idv.haojun.appiumtest:id/btSub')
 
 		# get text
@@ -77,7 +77,7 @@ class EZCalculatorTest(unittest.TestCase):
 		# set value2
 		self.setText('idv.haojun.appiumtest:id/etValue2', str(value2))
 
-		# click add button
+		# click mul button
 		self.performClick('idv.haojun.appiumtest:id/btMul')
 
 		# get text
@@ -98,7 +98,7 @@ class EZCalculatorTest(unittest.TestCase):
 		# set value2
 		self.setText('idv.haojun.appiumtest:id/etValue2', str(value2))
 
-		# click add button
+		# click div button
 		self.performClick('idv.haojun.appiumtest:id/btDiv')
 
 		# get text
