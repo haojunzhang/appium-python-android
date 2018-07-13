@@ -7,7 +7,7 @@ def appium_start():
         'platformName': 'Android',
         'deviceName': 'emulator-5554',
         'platformVersion': '6.0',
-        'app': 'C:\\Users\\tolka\\Downloads\\test_script\\app-debug.apk',
+        'app': 'C:\\app-debug.apk',
         'unicodeKeyboard': True,
         'resetKeyboard': True
     }
