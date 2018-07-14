@@ -51,6 +51,13 @@ npm install appium-doctor -g
 ```
 python setup.py install
 ```
+### Install Selenium (https://pypi.org/project/selenium/#files)
+```
+ModuleNotFoundError: No module named 'selenium'
+
+web download and
+python setup.py install
+```
 
 ### Screenshot
 ![sc1](screenshot/sc1.png)
