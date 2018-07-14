@@ -31,11 +31,11 @@ value="sdk dir"
 ```
 ```
 Update environment variable "Path"
-add value="android-sdk\platform-tools"
-add value="android-sdk\tools"
+add value="sdk dir\platform-tools"
+add value="sdk dir\tools"
 ```
 ```
-adb -version
+adb version
 ```
 ### Install Python (https://www.python.org/downloads/)
 ```
