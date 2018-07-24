@@ -60,4 +60,7 @@ python setup.py install
 ```
 
 ### Screenshot
-![sc1](screenshot/sc1.png)
+![sc1](screenshot/sc_login.png)
+![sc2](screenshot/sc_main.png)
+![sc3](screenshot/sc_calculator.png)
+![sc4](screenshot/sc_result.png)
